@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1>H a l l o! :speech_balloon:</h1>
 
-<!--
-**Fachusain/Fachusain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let me introduce my self, my name **Fachry Husaini**. 
 
-Here are some ideas to get you started:
+ I am **Student in Indonesian Education of University.**
+ 
+ **Computer Science**
+ 
+If you are interested in getting to know me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach Me On
+
+<a href="https://www.linkedin.com/in/fachry-husaini-249387232/">
+  <img align="left" alt="Fachry Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+  <a href="mailto:fhusainid@upi.edu">
+  <img align="left" alt="Fachry Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br>
+<hr>
+<p align=left>
+<a href="https://github.com/Fachusain">
+  <img margin-right="30em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fachusain&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
