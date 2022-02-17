@@ -1,4 +1,4 @@
-<h1>H a l l o! :speech_balloon:</h1>
+<h1>H a l l o! :wave:</h1>
 
 Let me introduce my self, my name **Fachry Husaini**. 
 
